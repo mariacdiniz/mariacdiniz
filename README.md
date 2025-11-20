@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mariacdiniz/mariacdiniz/output/snake.svg" alt="Snake animation" />
+
 
 ###
 

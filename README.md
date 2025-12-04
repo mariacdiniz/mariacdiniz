@@ -1,81 +1,91 @@
-<br clear="both">
+<br clear="both" />
 
-<h3 align="left">Hi 👋! My name is Maria Clara  and I'm a  junior software developer from Brazil</h3>
+<h1 align="center">Hi there 👋, I'm Maria Clara</h1>
 
-###
+<h3 align="center">Junior Front-end & Fullstack Developer | Angular · .NET · UX/UI</h3>
+
+<p align="center">
+  🎓 Software Engineering & IT Student <br/>
+  💡 Passionate about creating modern, accessible, and user-centered interfaces <br/>
+  🌍 Based in Goiânia, Brazil | Open to remote opportunities and global collaborations
+</p>
+
+---
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/f5/90/4c/f5904c9443a21721f166efa028f2dae6.gif" alt="girl-coding-gif"/>
+
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
 </div>
 
-###
+---
+
+### 🎓 Certifications
+
+- 📜 **Code in Place - Stanford University**
+- 🤖 **Artificial Intelligence (AI Extension Course) - University of São Paulo**
+- 🌐 **Future Talents Program - Instituto Algar**
+- 👩‍💻 **Women Techmakers - IWD Cerrado**
+
+---
+
+### 📈 GitHub Stats
 
 <div align="left">
-  <a href="mariaa8495" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mariaclara.vianadiniz00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=mariacdiniz&theme=dracula&hide_border=false&border_radius=5" height="150" />
+</div>
+
+<div align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariacdiniz&show_icons=true&theme=default&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacdiniz&layout=compact&langs_count=6" />
+</div>
+
+---
+
+### 🌍 Let's Connect!
+
+<div align="left">
   <a href="https://www.linkedin.com/in/maria-clara-viana-diniz-24681a230" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:mariaclara.vianadiniz00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://discord.com/users/mariaa8495" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
-###
-
-<img align="right" height="197" src="https://i.pinimg.com/originals/f5/90/4c/f5904c9443a21721f166efa028f2dae6.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=mariacdiniz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mariacdiniz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mariacdiniz/count.svg?" />
 </div>
 
-###
+---
 
-<img align="left" height="156" src="https://i.pinimg.com/originals/ff/43/47/ff4347d4ca9a369c24746bee2ec70e68.gif"  />
+<img align="left" height="156" src="https://i.pinimg.com/originals/ff/43/47/ff4347d4ca9a369c24746bee2ec70e68.gif" />
+<img align="right" height="133" src="https://i.pinimg.com/originals/75/39/42/7539425f30557de888dbf4ea150ae0ef.gif" />
 
-###
+---
 
-<img align="right" height="133" src="https://i.pinimg.com/originals/75/39/42/7539425f30557de888dbf4ea150ae0ef.gif"  />
+### ✨ Thank you for visiting my GitHub!
+⭐ Feel free to star any project you like!  
+🤝 Open to collaborations, freelance, or internship opportunities worldwide.
 
-###
+<br clear="both" />

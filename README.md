@@ -44,19 +44,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=mariacdiniz&theme=dracula&hide_border=false&border_radius=5" height="150" />
-</div>
-
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariacdiniz&show_icons=true&theme=default&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacdiniz&layout=compact&langs_count=6" />
-</div>
-
----
-
 ### 🌍 Let's Connect!
 
 <div align="left">
@@ -71,16 +58,8 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mariacdiniz/count.svg?" />
-</div>
 
----
-
-<img align="left" height="156" src="https://i.pinimg.com/originals/ff/43/47/ff4347d4ca9a369c24746bee2ec70e68.gif" />
-<img align="right" height="133" src="https://i.pinimg.com/originals/75/39/42/7539425f30557de888dbf4ea150ae0ef.gif" />
 
 ---
 
